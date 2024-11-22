@@ -1,0 +1,35 @@
+{
+  "name": "php-serialize-client",
+  "version": "0.0.0",
+  "description": "A CLI tool for the package php-serialize",
+  "keywords": [
+    "php",
+    "serialize",
+    "cli",
+    "tool"
+  ],
+  "homepage": "https://github.com/EloB/php-serialize-client#readme",
+  "bugs": {
+    "url": "https://github.com/EloB/php-serialize-client/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EloB/php-serialize-client.git"
+  },
+  "license": "MIT",
+  "author": "Olle Bröms",
+  "bin": {
+    "php-serialize": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "src/cli.js"
+  ],
+  "dependencies": {
+    "commander": "^12.1.0",
+    "php-serialize": "5.0.1"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
