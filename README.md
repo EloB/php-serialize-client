@@ -5,7 +5,7 @@ A CLI tool for `php-serialize`.
 ## Installation
 
 ```sh
-npm install -g php-serialize
+npm install -g php-serialize-client
 ```
 
 ## Usage
