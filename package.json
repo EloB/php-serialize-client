@@ -1,6 +1,6 @@
 {
   "name": "php-serialize-client",
-  "version": "0.0.0",
+  "version": "5.0.1",
   "description": "A CLI tool for the package php-serialize",
   "keywords": [
     "php",
